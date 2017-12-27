@@ -21,13 +21,32 @@ Its a good effort and a clean start. Going to update it with some basic layout c
 	3. Add content - Machine Learning 
 	4. Add content - Kinect
 
-## Day 1: Fri, December 22 2017,  9:56 AM  
+
+# Restarting Challenge
+
+Unfortunately, while I was working regularly I forgot to update this log. I'm going to start afresh purely because I wish to document all my work, and then later remove this false start section
+
+## Day 1: Fri, Thursday 28 2017,  2:12 AM  
 
 ### **Today's Progress**:  
 
+- Implemented SVM Classifier using sklearn libraries
+- Trained it on trashnet dataset
+- Performed model predictions
+- Create Gist
+
 ### **Thoughts** 
+
+- SVM's, while very basic ML, form the building blocks of much more powerful algorithms
+- Implementing it was nice - I did it custom first but clearly libraries are much more optimized
+- I am yet to explore the other forms, but this is quite enough for implementation
 
 ### **Link(s) to work**
 
+https://github.com/brainwave/cleanIndia
+
 ### **Todo Next:**
+
+- Measure accuracy
+- Document it on website
 
